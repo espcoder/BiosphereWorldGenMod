@@ -4,8 +4,6 @@ For the latest version of this mod, please see the Minecraft Forum thread:
 
 For the latest source code, please see the GitHub repository:
 
-	https://github.com/BrainSlugs83/NewBiospheresMod
+	https://github.com/espcoder/BiosphereWorldGenMod
 
 Find me on twitter at:
-
-	http://www.twitter.com/BrainSlugs83
